@@ -13,7 +13,7 @@ import {
   Pressable,
   ListRenderItem,
   GestureResponderEvent,
-  Platform, // Added Platform for potential future checks
+  Platform, 
 } from 'react-native';
 
 // --- Type Definitions ---
